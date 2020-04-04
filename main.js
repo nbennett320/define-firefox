@@ -1,4 +1,3 @@
-// utils.import('./keys.json')
 "use strict"
 const menus = browser.contextMenus
 
